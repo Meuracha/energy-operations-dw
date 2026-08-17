@@ -1,0 +1,2 @@
+company_id,metric_name,description,severity,status
+BCP,Tax Expense 2024,"Effective tax rate ~80.6% vs Thai corporate standard rate of 20%; no clear explanation found in the company's financial reports",Warning,Under review

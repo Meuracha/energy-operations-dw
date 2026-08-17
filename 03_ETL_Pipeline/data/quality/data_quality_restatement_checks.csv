@@ -1,0 +1,7 @@
+company_id,metric_name,report_a_value,report_b_value,unit,match_status
+PTTEP,Revenue 2024,9273,9273,USD million,Pass
+PTTEP,Finance cost 2024,327.607,327.607,USD million,Pass
+PTT,Revenue 2024,3090453391180,3090453391180,THB,Pass
+TOP,Revenue 2024,466777001446,466777001446,THB,Pass
+BCP,Net income 2024,4040300703,4040300703,THB,Pass
+OR,Revenue 2024,723958059599,723958059599,THB,Pass

@@ -1,0 +1,16 @@
+company_id,year,revenue,net_income,tax_expense,interest_expense,depreciation_amortization,capex,opex,production_volume_boe,production_volume_dmf,reserves_1p,reserves_2p,reserves_3p,report_name,document_type,source,report_url
+PTTEP,2024,9273.0,2226.918,1621.0,327.607,2688.941,3019.706,1401.808,255.0,,1637.0,,,PTTEP 56-1 One Report 2024,56-1 One Report,PTTEP,https://www.pttep.com/en/document/viewer/flipbook/120834/56-1-one-report-2024
+PTTEP,2023,9057.0,2207.767,1831.0,287.957,2334.711,2391.888,1224.841,,,1436.0,,,PTTEP 56-1 One Report 2024,56-1 One Report,PTTEP,https://www.pttep.com/en/document/viewer/flipbook/120834/56-1-one-report-2024
+PTTEP,2025,8970.283,1829.944,1331.0,391.847,2897.044,3681.52,1530.354,,,1838.0,,,PTTEP 56-1 One Report 2025,56-1 One Report,PTTEP,https://www.pttep.com/en/document/viewer/flipbook/storage/document/annual-report/2025/pttep-2025-one-report-en.pdf
+PTT,2025,81009.825,3582.416,1752.799,1230.838,5536.68,5219.807,75185.407,,,,,,PTT 56-1 One Report 2025,56-1 One Report,PTT,https://investor.pttplc.com
+PTT,2024,87615.269,3216.84,1905.423,1327.387,5270.827,4820.233,80835.884,,,,,,PTT 56-1 One Report 2025,56-1 One Report,PTT,https://investor.pttplc.com
+PTT,2023,90411.787,4464.127,2337.66,1304.721,4975.423,5092.269,81978.526,,,,,,PTT 56-1 One Report 2024,56-1 One Report,PTT,https://investor.pttplc.com
+TOP,2025,12040.728,445.45,64.851,106.338,245.413,325.543,11716.154,,,,,,TOP 56-1 One Report 2025,56-1 One Report,TOP,https://investor.thaioilgroup.com
+TOP,2024,13233.266,282.964,64.734,114.874,229.805,264.234,12835.423,,,,,,TOP 56-1 One Report 2025,56-1 One Report,TOP,https://investor.thaioilgroup.com
+TOP,2023,13490.222,563.043,134.307,117.54,224.226,419.728,12613.109,,,,,,TOP 56-1 One Report 2024,56-1 One Report,TOP,https://investor.thaioilgroup.com
+BCP,2025,15445.496,74.399,65.941,191.597,551.037,577.834,14719.09,,,,,,BCP 56-1 One Report 2025,56-1 One Report,BCP,https://investor.bangchak.co.th
+BCP,2024,16723.2,114.544,476.789,198.48,568.591,618.085,15991.839,,,,,,BCP 56-1 One Report 2025,56-1 One Report,BCP,https://investor.bangchak.co.th
+BCP,2023,11092.831,342.352,252.017,143.182,413.121,351.137,10257.222,,,,,,BCP 56-1 One Report 2024,56-1 One Report,BCP,https://investor.bangchak.co.th
+OR,2025,20045.137,343.961,75.448,28.685,230.657,164.149,19180.974,,,,,,OR 56-1 One Report 2025,56-1 One Report,OR,https://investor.pttor.com
+OR,2024,20524.425,216.859,51.063,35.826,212.344,208.251,19793.625,,,,,,OR 56-1 One Report 2025,56-1 One Report,OR,https://investor.pttor.com
+OR,2023,22129.182,319.01,70.066,39.371,195.468,250.627,21239.956,,,,,,OR 56-1 One Report 2024,56-1 One Report,OR,https://investor.pttor.com
