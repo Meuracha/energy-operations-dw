@@ -24,14 +24,17 @@ PTTEP_Project_Scope.md              ← Full project overview (read this first; 
 
 ## Dashboard Preview
 
-**Executive Overview**
-![Executive Overview](./03_ETL_Pipeline/screenshots/dashboard-01-overview.png)
+### Executive Overview
 
-**Company Deep-dive**
-![Company Deep-dive](./03_ETL_Pipeline/screenshots/dashboard-02-deepdive.png)
+<img src="./03_ETL_Pipeline/screenshots/dashboard-01-overview.png" width="100%">
 
-**Data Quality**
-![Data Quality](./03_ETL_Pipeline/screenshots/dashboard-03-dataquality.png)
+### Company Deep-dive
+
+<img src="./03_ETL_Pipeline/screenshots/dashboard-02-deepdive.png" width="100%">
+
+### Data Quality
+
+<img src="./03_ETL_Pipeline/screenshots/dashboard-03-dataquality.png" width="100%">
 
 ## Value Chain Margin Spectrum (2025, real verified data)
 
