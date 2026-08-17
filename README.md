@@ -20,7 +20,7 @@ PTTEP_Project_Scope.md              ← Full project overview (read this first; 
 - ✅ Deliverable #3: ETL pipeline — **complete**, with real verified data across all 5 companies (PTTEP, PTT, TOP, BCP, OR) × 3 years (2023-2025); Docker-ready; loaded into BigQuery (7 tables, live-tested)
 - ✅ Deliverable #4: Data quality assessment — real findings recorded (zero restatements found across 30+ cross-report checks; one flagged anomaly in BCP's 2024 tax expense)
 - ✅ Deliverable #5: Looker Studio dashboard — **live and connected to BigQuery**, 3 pages built and finalized (Executive Overview, Company Deep-dive, Data Quality)
-- ⬜ Deliverable #6: Architecture/best-practice documentation
+- ✅ Deliverable #6: Architecture/best-practice documentation
 
 ## Value Chain Margin Spectrum (2025, real verified data)
 
