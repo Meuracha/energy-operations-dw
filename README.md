@@ -26,15 +26,15 @@ PTTEP_Project_Scope.md              ← Full project overview (read this first; 
 
 ### Executive Overview
 
-<img src="./03_ETL_Pipeline/screenshots/dashboard-01-overview.png" width="100%">
+<img src="https://raw.githubusercontent.com/Meuracha/energy-operations-dw/main/03_ETL_Pipeline/screenshots/dashboard-01-overview.png" width="100%">
 
 ### Company Deep-dive
 
-<img src="./03_ETL_Pipeline/screenshots/dashboard-02-deepdive.png" width="100%">
+<img src="https://raw.githubusercontent.com/Meuracha/energy-operations-dw/main/03_ETL_Pipeline/screenshots/dashboard-02-deepdive.png" width="100%">
 
 ### Data Quality
 
-<img src="./03_ETL_Pipeline/screenshots/dashboard-03-dataquality.png" width="100%">
+<img src="https://raw.githubusercontent.com/Meuracha/energy-operations-dw/main/03_ETL_Pipeline/screenshots/dashboard-03-dataquality.png" width="100%">
 
 ## Value Chain Margin Spectrum (2025, real verified data)
 
