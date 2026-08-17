@@ -22,6 +22,17 @@ PTTEP_Project_Scope.md              ← Full project overview (read this first; 
 - ✅ Deliverable #5: Looker Studio dashboard — **live and connected to BigQuery**, 3 pages built and finalized (Executive Overview, Company Deep-dive, Data Quality)
 - ✅ Deliverable #6: Architecture/best-practice documentation
 
+## Dashboard Preview
+
+**Executive Overview**
+![Executive Overview](./screenshots/dashboard-01-overview.png)
+
+**Company Deep-dive**
+![Company Deep-dive](./screenshots/dashboard-02-deepdive.png)
+
+**Data Quality**
+![Data Quality](./screenshots/dashboard-03-dataquality.png)
+
 ## Value Chain Margin Spectrum (2025, real verified data)
 
 | Company | Position | EBITDA Margin |
